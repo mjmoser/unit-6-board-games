@@ -1,0 +1,22 @@
+<style>
+	#task1 
+		{
+		background-color: #2F64D7;
+		color: #000000;
+		font-family: Arial;
+		} 
+	#task2
+		{
+		background-color: #FFF8DC;
+		color: #000099;
+		font-family: Arial;
+		}
+	#task3
+	{
+	color:brown;
+	font-size: 1.2em;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Verdana;
+	}
+</style>
