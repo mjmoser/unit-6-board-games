@@ -1,7 +1,10 @@
-
-function myFunction (){ 
-	var box1 = $("#firstgame").val();
-	var box2 = $("#secondgame").val();
-	var box3 = $("#thirdgame").val();
+function showTextBoxes (){ 
+	var box1 = $("#firstGame").val();
+	var box2 = $("#secondGame").val();
+	var box3 = $("#thirdGame").val();
 	
 	alert(box1 + box2 + box3);
+	
+	$(".odd").val(""); 
+	$(".even").val(""); 
+}
